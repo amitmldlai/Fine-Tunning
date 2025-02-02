@@ -1,0 +1,182 @@
+[
+    {
+        "text": "Form 1040 U.S. Individual Income Tax Return 2023\nFiling Status: Married Filing Jointly\nName: Michael Brown\nSocial Security Number: 234-56-XXXX\nTotal Income: $88,420\nAdjusted Gross Income: $85,000\nTotal Tax: $18,568\nTotal Payments: $19,568\nRefund Amount: $1,000",
+        "type": "TAX_RETURN"
+    },
+    {
+        "text": "DRIVER LICENSE\nState of California\nDL: BROWN*MICHAEL*L\nDOB: 07/04/1985\nEXP: 07/04/2030\nISS: 07/04/2024\nSEX: M\nHGT: 6'-1\"\nWGT: 195\nEYES: HAZ\nEND: NONE\nREST: A",
+        "type": "ID"
+    },
+    {
+        "text": "DRIVER LICENSE\nState of Texas\nDL: DAVIS*EMILY*M\nDOB: 09/12/1992\nEXP: 09/12/2029\nISS: 09/12/2023\nSEX: F\nHGT: 5'-7\"\nWGT: 142\nEYES: GRN\nEND: NONE\nREST: C",
+        "type": "ID"
+    },
+    {
+        "text": "COMMUNITY BANK\nMONTHLY STATEMENT\nAccount: ****1122\nStatement Period: 03/01/2024 - 03/31/2024\nBeginning Balance: $9,500.00\nDeposits/Credits: $6,300.00\nWithdrawals/Debits: $4,750.00\nEnding Balance: $11,050.00\nDirect Deposits: MANUFACTURING CO $3,500.00",
+        "type": "BANK_STATEMENT"
+    },
+
+    {
+        "text": "PAY STATEMENT\nCompany: Green Energy Solutions\nEmployee: David Wilson\nPay Period: 03/01/2024 - 03/15/2024\nGross Pay: $4,250.00\nFederal Tax: $850.00\nState Tax: $297.50\nSocial Security: $263.50\nMedicare: $61.63\nNet Pay: $2,777.37\nYTD Gross: $8,500.00",
+        "type": "PAY_STUB"
+    },
+    {
+        "text": "2022 W-2 Wage and Tax Statement\nEmployee's social security number 987-65-XXXX\nEmployer identification number 98-7654321\nEmployee name: Sarah Johnson\nWages, tips, other compensation: $82,500.00\nSocial security wages: $82,500.00\nMedicare wages and tips: $82,500.00\nFederal income tax withheld: $17,325.00",
+        "type": "W2"},
+    {
+        "text": "NATIONAL BANK\nMONTHLY STATEMENT\nAccount: ****1234\nStatement Period: 01/01/2024 - 01/31/2024\nBeginning Balance: $5,240.50\nDeposits/Credits: $3,500.00\nWithdrawals/Debits: $2,750.25\nEnding Balance: $5,990.25\nDirect Deposits: EMPLOYER CORP $1,750.00",
+        "type": "BANK_STATEMENT"
+    },
+    {
+        "text": "PAY STATEMENT\nCompany: Tech Solutions Inc.\nEmployee: John Smith\nPay Period: 01/01/2024 - 01/15/2024\nGross Pay: $3,125.00\nFederal Tax: $625.00\nState Tax: $218.75\nSocial Security: $193.75\nMedicare: $45.31\nNet Pay: $2,042.19\nYTD Gross: $3,125.00",
+        "type": "PAY_STUB"
+    },
+    {
+        "text": "Form 1040 U.S. Individual Income Tax Return 2023\nFiling Status: Single\nName: John Smith\nSocial Security Number: 123-45-XXXX\nTotal Income: $75,000\nAdjusted Gross Income: $72,500\nTotal Tax: $15,750\nTotal Payments: $15,750\nRefund Amount: $0",
+        "type": "TAX_RETURN"
+    },
+    {
+        "text": "2023 W-2 Wage and Tax Statement\nEmployee's social security number 234-56-XXXX\nEmployer identification number 23-4567891\nEmployee name: Michael Brown\nWages, tips, other compensation: $88,420.00\nSocial security wages: $88,420.00\nMedicare wages and tips: $88,420.00\nFederal income tax withheld: $18,568.20",
+        "type": "W2"
+    },
+    {
+        "text": "CITY BANK\nMONTHLY STATEMENT\nAccount: ****4321\nStatement Period: 02/01/2024 - 02/29/2024\nBeginning Balance: $7,850.00\nDeposits/Credits: $4,200.50\nWithdrawals/Debits: $3,450.75\nEnding Balance: $8,599.75\nDirect Deposits: RETAIL COMPANY $2,100.00",
+        "type": "BANK_STATEMENT"
+    },
+    {
+        "text": "LIBERTY BANK\nMONTHLY STATEMENT\nAccount: ****8765\nStatement Period: 11/01/2023 - 11/30/2023\nBeginning Balance: $12,340.25\nDeposits/Credits: $5,600.00\nWithdrawals/Debits: $4,230.50\nEnding Balance: $13,709.75\nDirect Deposits: CONSULTING FIRM $3,200.00",
+        "type": "BANK_STATEMENT"
+    },
+    {
+        "text": "PAY STATEMENT\nCompany: Digital Innovations Corp.\nEmployee: Michael Brown\nPay Period: 02/01/2024 - 02/15/2024\nGross Pay: $3,850.00\nFederal Tax: $770.00\nState Tax: $269.50\nSocial Security: $238.70\nMedicare: $55.83\nNet Pay: $2,515.97\nYTD Gross: $7,700.00",
+        "type": "PAY_STUB"
+    },
+    {
+        "text": "PAY STATEMENT\nCompany: Healthcare Solutions Ltd.\nEmployee: Emily Davis\nPay Period: 02/01/2024 - 02/15/2024\nGross Pay: $2,980.00\nFederal Tax: $596.00\nState Tax: $208.60\nSocial Security: $184.76\nMedicare: $43.21\nNet Pay: $1,947.43\nYTD Gross: $5,960.00",
+        "type": "PAY_STUB"
+    },
+
+    {
+        "text": "PAY STATEMENT\nCompany: Education First Inc.\nEmployee: Olivia Taylor\nPay Period: 03/01/2024 - 03/15/2024\nGross Pay: $3,150.00\nFederal Tax: $630.00\nState Tax: $220.50\nSocial Security: $195.30\nMedicare: $45.68\nNet Pay: $2,058.52\nYTD Gross: $6,300.00",
+        "type": "PAY_STUB"
+    },
+    {
+        "text": "Form 1040 U.S. Individual Income Tax Return 2023\nFiling Status: Married Filing Separately\nName: David Wilson\nSocial Security Number: 345-67-XXXX\nTotal Income: $92,150\nAdjusted Gross Income: $89,000\nTotal Tax: $19,351\nTotal Payments: $20,351\nRefund Amount: $1,000",
+        "type": "TAX_RETURN"
+    },
+    {
+        "text": "Form 1040 U.S. Individual Income Tax Return 2023\nFiling Status: Single\nName: Olivia Taylor\nSocial Security Number: 765-43-XXXX\nTotal Income: $72,800\nAdjusted Gross Income: $70,200\nTotal Tax: $15,288\nTotal Payments: $16,288\nRefund Amount: $1,000",
+        "type": "TAX_RETURN"
+    },
+    {
+        "text": "DRIVER LICENSE\nState of Florida\nDL: WILSON*DAVID*R\nDOB: 11/30/1982\nEXP: 11/30/2027\nISS: 11/30/2023\nSEX: M\nHGT: 5'-11\"\nWGT: 185\nEYES: BLU\nEND: NONE\nREST: A",
+        "type": "ID"
+    },
+    {
+        "text": "2023 W-2 Wage and Tax Statement\nEmployee's social security number 456-78-XXXX\nEmployer identification number 45-6789012\nEmployee name: Daniel Martinez\nWages, tips, other compensation: $105,000.00\nSocial security wages: $105,000.00\nMedicare wages and tips: $105,000.00\nFederal income tax withheld: $22,050.00",
+        "type": "W2"
+    },
+
+    {
+        "text": "TRUST BANK\nMONTHLY STATEMENT\nAccount: ****5566\nStatement Period: 04/01/2024 - 04/30/2024\nBeginning Balance: $18,300.00\nDeposits/Credits: $9,500.00\nWithdrawals/Debits: $6,200.00\nEnding Balance: $21,600.00\nDirect Deposits: TECH STARTUP $5,000.00",
+        "type": "BANK_STATEMENT"
+    },
+    {
+        "text": "HERITAGE BANK\nMONTHLY STATEMENT\nAccount: ****7788\nStatement Period: 09/01/2023 - 09/30/2023\nBeginning Balance: $22,450.90\nDeposits/Credits: $12,300.50\nWithdrawals/Debits: $8,400.75\nEnding Balance: $26,350.65\nDirect Deposits: CONSTRUCTION CO $6,500.00",
+        "type": "BANK_STATEMENT"
+    },
+    {
+        "text": "PAY STATEMENT\nCompany: Logistics Experts LLC\nEmployee: Daniel Martinez\nPay Period: 04/01/2024 - 04/15/2024\nGross Pay: $5,500.00\nFederal Tax: $1,100.00\nState Tax: $385.00\nSocial Security: $341.00\nMedicare: $79.75\nNet Pay: $3,594.25\nYTD Gross: $11,000.00",
+        "type": "PAY_STUB"
+    },
+    {
+        "text": "PAY STATEMENT\nCompany: Retail Masters Inc.\nEmployee: Sophia Anderson\nPay Period: 04/01/2024 - 04/15/2024\nGross Pay: $2,750.00\nFederal Tax: $550.00\nState Tax: $192.50\nSocial Security: $170.50\nMedicare: $39.88\nNet Pay: $1,797.12\nYTD Gross: $5,500.00",
+        "type": "PAY_STUB"
+    },
+    {
+        "text": "2023 W-2 Wage and Tax Statement\nEmployee's social security number 567-89-XXXX\nEmployer identification number 56-7890123\nEmployee name: Ethan Wilson\nWages, tips, other compensation: $94,300.00\nSocial security wages: $94,300.00\nMedicare wages and tips: $94,300.00\nFederal income tax withheld: $19,803.00",
+        "type": "W2"
+    },
+    {
+        "text": "PACIFIC BANK\nMONTHLY STATEMENT\nAccount: ****9900\nStatement Period: 05/01/2024 - 05/31/2024\nBeginning Balance: $14,200.75\nDeposits/Credits: $7,800.00\nWithdrawals/Debits: $5,450.25\nEnding Balance: $16,550.50\nDirect Deposits: SOFTWARE CORP $4,500.00",
+        "type": "BANK_STATEMENT"
+    },
+    {
+        "text": "SUNRISE CREDIT UNION\nMONTHLY STATEMENT\nAccount: ****1122\nStatement Period: 08/01/2023 - 08/31/2023\nBeginning Balance: $9,350.25\nDeposits/Credits: $6,200.50\nWithdrawals/Debits: $4,100.75\nEnding Balance: $11,450.00\nDirect Deposits: MARKETING AGENCY $3,000.00",
+        "type": "BANK_STATEMENT"
+    },
+
+    {
+        "text": "PAY STATEMENT\nCompany: Pharma Research Ltd.\nEmployee: Mia Thompson\nPay Period: 05/01/2024 - 05/15/2024\nGross Pay: $3,300.00\nFederal Tax: $660.00\nState Tax: $231.00\nSocial Security: $204.60\nMedicare: $47.85\nNet Pay: $2,156.55\nYTD Gross: $6,600.00",
+        "type": "PAY_STUB"
+    },
+    {
+        "text": "Form 1040 U.S. Individual Income Tax Return 2023\nFiling Status: Married Filing Jointly\nName: Ethan Wilson\nSocial Security Number: 567-89-XXXX\nTotal Income: $94,300\nAdjusted Gross Income: $91,200\nTotal Tax: $19,803\nTotal Payments: $20,803\nRefund Amount: $1,000",
+        "type": "TAX_RETURN"
+    },
+
+    {
+        "text": "DRIVER LICENSE\nState of Colorado\nDL: WILSON*ETHAN*J\nDOB: 02/14/1993\nEXP: 02/14/2029\nISS: 02/14/2023\nSEX: M\nHGT: 6'-0\"\nWGT: 175\nEYES: GRN\nEND: NONE\nREST: C",
+        "type": "ID"
+    },
+    {
+        "text": "DRIVER LICENSE\nState of Arizona\nDL: THOMPSON*MIA*K\nDOB: 10/05/1987\nEXP: 10/05/2027\nISS: 10/05/2022\nSEX: F\nHGT: 5'-5\"\nWGT: 130\nEYES: BLU\nEND: NONE\nREST: A",
+        "type": "ID"
+    },
+    {
+        "text": "U.S. PASSPORT\nType: P\nPassport No: 1122334455\nSurname: THOMPSON\nGiven Names: MIA LOUISE\nNationality: UNITED STATES OF AMERICA\nDate of Birth: 05 OCT 1987\nPlace of Birth: PHOENIX, U.S.A\nDate of Issue: 15 JUN 2019\nDate of Expiration: 14 JUN 2029",
+        "type": "ID"
+    },
+    {
+        "text": "2023 W-2 Wage and Tax Statement\nEmployee's social security number 678-90-XXXX\nEmployer identification number 67-8901234\nEmployee name: Lucas Garcia\nWages, tips, other compensation: $112,500.00\nSocial security wages: $112,500.00\nMedicare wages and tips: $112,500.00\nFederal income tax withheld: $23,625.00",
+        "type": "W2"
+    },
+    {
+        "text": "2022 W-2 Wage and Tax Statement\nEmployee's social security number 432-10-XXXX\nEmployer identification number 43-2109876\nEmployee name: Chloe Martinez\nWages, tips, other compensation: $81,200.00\nSocial security wages: $81,200.00\nMedicare wages and tips: $81,200.00\nFederal income tax withheld: $17,052.00",
+        "type": "W2"
+    },
+    {
+        "text": "HORIZON BANK\nMONTHLY STATEMENT\nAccount: ****3344\nStatement Period: 06/01/2024 - 06/30/2024\nBeginning Balance: $23,100.00\nDeposits/Credits: $12,500.00\nWithdrawals/Debits: $9,800.00\nEnding Balance: $25,800.00\nDirect Deposits: ENGINEERING FIRM $6,500.00",
+        "type": "BANK_STATEMENT"
+    },
+    {
+        "text": "SUMMIT BANK\nMONTHLY STATEMENT\nAccount: ****5566\nStatement Period: 07/01/2023 - 07/31/2023\nBeginning Balance: $17,850.90\nDeposits/Credits: $10,200.75\nWithdrawals/Debits: $7,450.25\nEnding Balance: $20,601.40\nDirect Deposits: DESIGN STUDIO $4,800.00",
+        "type": "BANK_STATEMENT"
+    },
+    {
+        "text": "Form 1040 U.S. Individual Income Tax Return 2023\nFiling Status: Single\nName: Lucas Garcia\nSocial Security Number: 678-90-XXXX\nTotal Income: $112,500\nAdjusted Gross Income: $108,900\nTotal Tax: $23,625\nTotal Payments: $24,625\nRefund Amount: $1,000",
+        "type": "TAX_RETURN"
+    },
+    {
+        "text": "Form 1040 U.S. Individual Income Tax Return 2023\nFiling Status: Head of Household\nName: Chloe Martinez\nSocial Security Number: 432-10-XXXX\nTotal Income: $81,200\nAdjusted Gross Income: $78,500\nTotal Tax: $17,052\nTotal Payments: $18,052\nRefund Amount: $1,000",
+        "type": "TAX_RETURN"
+    },
+    {
+        "text": "DRIVER LICENSE\nState of Illinois\nDL: GARCIA*LUCAS*M\nDOB: 08/22/1984\nEXP: 08/22/2028\nISS: 08/22/2022\nSEX: M\nHGT: 5'-9\"\nWGT: 160\nEYES: BRN\nEND: NONE\nREST: B",
+        "type": "ID"
+    },
+    {
+        "text": "2023 W-2 Wage and Tax Statement\nEmployee's social security number 789-01-XXXX\nEmployer identification number 78-9012345\nEmployee name: Noah Rodriguez\nWages, tips, other compensation: $127,800.00\nSocial security wages: $127,800.00\nMedicare wages and tips: $127,800.00\nFederal income tax withheld: $26,838.00",
+        "type": "W2"
+    },
+    {
+        "text": "LEGACY BANK\nMONTHLY STATEMENT\nAccount: ****9900\nStatement Period: 06/01/2023 - 06/30/2023\nBeginning Balance: $19,750.50\nDeposits/Credits: $13,200.25\nWithdrawals/Debits: $9,450.75\nEnding Balance: $23,500.00\nDirect Deposits: LAW FIRM $7,000.00",
+        "type": "BANK_STATEMENT"
+    },
+    {
+        "text": "PAY STATEMENT\nCompany: Renewable Energy Corp.\nEmployee: Noah Rodriguez\nPay Period: 07/01/2024 - 07/15/2024\nGross Pay: $6,000.00\nFederal Tax: $1,200.00\nState Tax: $420.00\nSocial Security: $372.00\nMedicare: $87.00\nNet Pay: $3,921.00\nYTD Gross: $12,000.00",
+        "type": "PAY_STUB"
+    },
+    {
+        "text": "2023 W-2 Wage and Tax Statement\nEmployee's social security number 890-12-XXXX\nEmployer identification number 89-0123456\nEmployee name: Liam Walker\nWages, tips, other compensation: $135,200.00\nSocial security wages: $135,200.00\nMedicare wages and tips: $135,200.00\nFederal income tax withheld: $28,392.00",
+        "type": "W2"
+    },
+    {
+        "text": "CAPITAL BANK\nMONTHLY STATEMENT\nAccount: ****1122\nStatement Period: 08/01/2024 - 08/31/2024\nBeginning Balance: $35,000.00\nDeposits/Credits: $18,500.00\nWithdrawals/Debits: $13,750.00\nEnding Balance: $39,750.00\nDirect Deposits: INVESTMENT BANK $10,000.00",
+        "type": "BANK_STATEMENT"
+    },
+    {
+        "text": "PAY STATEMENT\nCompany: Cyber Security Solutions\nEmployee: Liam Walker\nPay Period: 08/01/2024 - 08/15/2024\nGross Pay: $6,500.00\nFederal Tax: $1,300.00\nState Tax: $455.00\nSocial Security: $403.00\nMedicare: $94.25\nNet Pay: $4,247.75\nYTD Gross: $13,000.00",
+        "type": "PAY_STUB"
+    }
+]
