@@ -1,1 +1,1 @@
-This repository includes implementations for fine tuning embeddings, multimodal models, and LLMs.
+This repository includes implementations for compression and fine tuning embeddings, multimodal models, and LLMs.
