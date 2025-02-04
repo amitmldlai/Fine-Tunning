@@ -36,7 +36,7 @@ def loss_function(model):
     return loss
 
 
-def train_embedding_model(model, dataset, loss, evaluator):
+def train_embedding_model(model, dataset, loss, evaluator):    # Fine-Tuning all layers of model
     train_args = SentenceTransformerTrainingArguments(
         output_dir=f"models/distil_roberta_job_embeddings",
         num_train_epochs=num_epochs,
@@ -63,7 +63,7 @@ def train_embedding_model(model, dataset, loss, evaluator):
 
 
 def model_inference(model, dataset):
-    query_embedding = model.encode(["Your text goes here"])
+    query_embedding = model.encode(["data scientist 6 year experience, LLMs, credit risk, content marketing"])
     jd_embeddings = model.encode(dataset["test"]["job_description_pos"])
     similarities = model.similarity(query_embedding, jd_embeddings)
     print(similarities.shape)
@@ -72,7 +72,7 @@ def model_inference(model, dataset):
 
 
 if __name__ == "__main__":
-    dataset = load_local_dataset("/content/data/ai-job.json")
+    dataset = load_local_dataset("data/ai-job.json")
     embed_model = initialize_model()
     if os.path.exists("models/final_model"):
         print('-' * 50)
